@@ -1,7 +1,7 @@
 # Hey it's Chandru here!
 
 - 🔭 I’m currently working on Javascript
-- 🌱 Machine Learning aspirant
+- 🌱 Machine Learning and web development aspirant
 - 👯 I’m looking for a Tech mentor
 - 💬 Ask me about data and web design
 ## Reach me out:
